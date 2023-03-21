@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 50px;
+  margin: 50px;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  background-color: aqua;
+  border-radius: 20px;
+}
